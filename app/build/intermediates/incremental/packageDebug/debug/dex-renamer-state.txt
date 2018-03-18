@@ -1,0 +1,4 @@
+#Sun Mar 18 10:32:20 IST 2018
+base.0=E\:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoirsoftSmsBroadCastRceiverDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
